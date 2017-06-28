@@ -24,6 +24,7 @@ recommendations.getRecommendations(prefs, username)
 ```
 <br/><br/>
 To *transform preferences* from a dictionary like
+```
 {
 	"User 01": {
 		"Product 01": Rating,
@@ -36,7 +37,7 @@ To *transform preferences* from a dictionary like
 		"Product 01": Rating,
 	}...
 }
-
+```
 *to a dictionary like*
 ```
 {
